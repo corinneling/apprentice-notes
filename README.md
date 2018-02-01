@@ -9,3 +9,6 @@ This book is also free to read online (woohoo for free stuff!). It's a fun, inte
 
 #### [Ruby Bits](https://www.codeschool.com/courses/ruby-bits)
 This tutorial is available on [Code School](https://www.codeschool.com). Each level starts with a video explaining ruby syntax and comments. I took notes during these videos, and also copied the code that I didn't understand from the exercises. The _exercises are great practice_, but not overall I didn't take a ton of what I learned to any projects.
+
+#### [MiniTest Magic 8 Ball](https://semaphoreci.com/community/tutorials/getting-started-with-minitest)
+This exercise was a _great introduction into MiniTest_, and TDD as a while. It gives you a small project and starts by showing you how to configure MiniTest. Then it goes step by step, following the logic of starting with one test and creating more needed. It's a quick and easy exercise that helped me a lot. It's also on [GitHub](https://github.com/fteem/minitest-intro).
