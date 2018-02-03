@@ -12,3 +12,7 @@ This tutorial is available on [Code School](https://www.codeschool.com). Each le
 
 #### [MiniTest Magic 8 Ball](https://semaphoreci.com/community/tutorials/getting-started-with-minitest)
 This exercise was a _great introduction into MiniTest_, and TDD as a while. It gives you a small project and starts by showing you how to configure MiniTest. Then it goes step by step, following the logic of starting with one test and creating more needed. It's a quick and easy exercise that helped me a lot. It's also on [GitHub](https://github.com/fteem/minitest-intro).
+
+#### [Getting Started with RSpec](https://semaphoreci.com/community/tutorials/getting-started-with-rspec)
+
+From the same website as the MiniTest exercise, and with the same style. It includes step by step instructions on how to set up RSpec and your first test. It was a good introduction to BDD, behavior-driven development. 
