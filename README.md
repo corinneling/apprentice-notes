@@ -24,3 +24,7 @@ This is a great list to challenge yourself with, it has the simplest of prompts 
 #### [Book of Ruby](https://www.amazon.com/Book-Ruby-Hands-Guide-Adventurous/dp/1593272944)
 
 This book has a great balance of explanation to examples. I like it because it explains everything assuming you only know a little bit of ruby, yet it also has a 'Digging Deeper' section at the end of each chapter.
+
+#### [Ruby Exceptions](http://rubylearning.com/satishtalim/ruby_exceptions.html)
+
+This is a very detailed post on what the Exception class is ruby is, how to work with exceptions by using exception handlers. The post gives examples and explanations on how to raise exceptions, as well as use begin..end blocks with rescue clauses
