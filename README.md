@@ -15,4 +15,12 @@ This exercise was a _great introduction into MiniTest_, and TDD as a while. It g
 
 #### [Getting Started with RSpec](https://semaphoreci.com/community/tutorials/getting-started-with-rspec)
 
-From the same website as the MiniTest exercise, and with the same style. It includes step by step instructions on how to set up RSpec and your first test. It was a good introduction to BDD, behavior-driven development. 
+From the same website as the MiniTest exercise, and with the same style. It includes step by step instructions on how to set up RSpec and your first test. It was a good introduction to BDD, behavior-driven development.
+
+#### [Mega Project List](https://github.com/karan/Projects)
+
+This is a great list to challenge yourself with, it has the simplest of prompts such as, find e to the nth digit or make a calculator, all the way up to database projects. You can use any language to solve them, and I am planning on revisiting it after working on ruby some more
+
+#### [Book of Ruby](https://www.amazon.com/Book-Ruby-Hands-Guide-Adventurous/dp/1593272944)
+
+This book has a great balance of explanation to examples. I like it because it explains everything assuming you only know a little bit of ruby, yet it also has a 'Digging Deeper' section at the end of each chapter.
