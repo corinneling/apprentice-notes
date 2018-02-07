@@ -1,4 +1,5 @@
 # MiniTest::Spec is a contextual RSpec-esque syntax
+# http://www.rubyinside.com/a-minitestspec-tutorial-elegant-spec-style-testing-that-comes-with-ruby-5354.html
 
 # We can compare the syntax of two tests that are the
 # exact same, expect that one is written with Test Unit
