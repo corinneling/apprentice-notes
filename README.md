@@ -1,6 +1,12 @@
 # Apprentice Notes
 ### Exercise Files with My Notes as Comments
 
+#### [Blockchain](https://github.com/openblockchains/awesome-blockchains/tree/master/blockchain.rb)
+I discovered the gem blockchain-lite for ruby, and after playing around with it I was curious about how creating a blockchain without the gem would work. This was a very simple example that was a good introduction to the subject.
+
+#### [SSH Keys](https://github.com/corinneling/apprentice-notes/blob/master/how-to-generate-ssh-key.md)
+I've used SSH keys only once before, but I was still interested in what they were and how they would be generated. For simple instructions and the resources I used see [my markdown file](https://github.com/corinneling/apprentice-notes/blob/master/how-to-generate-ssh-key.md) on SSH keys 
+
 #### [Learn Ruby The Hard Way](https://learnrubythehardway.org/book/)
 This book is free to read online. It's straight forward, and gives you code to put in your own files and mess around with. That gave me a chance to really understand what was going on with certain ruby elements. Also, ex41 - 43  _helped me understand OOP_ so much better than I had ever before (I hadn't really understood it before). I would highly recommend that section.
 
