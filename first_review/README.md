@@ -1,4 +1,7 @@
 ### Wand Repair Shop
+_i wanted to see if I really understood OOP & Ruby by creating a slightly different hot dog type stand program. And I wanted to try TDD_
+
+
 
 ![Wand Test Screenshot](images/wand-shop-test-run.jpg)
 
@@ -10,8 +13,7 @@ _i was able to practice TDD_
 * I tried to make a commit after every single change to practice Red, Green, Refractor
 * And practiced writing detailed commits
 
-![Triangle Kata Commits Screenshot](images/triangle_kata_commits.jpg | width=100)
-<img src="images/triangle_kata_commits.jpg" height="204">
+![Triangle Kata Commits Screenshot](images/triangle_commits.png)
 
 ![Triangle Kata Screenshot](images/tirangle_kata.jpg)
 
