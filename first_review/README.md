@@ -10,7 +10,7 @@ _i was able to practice TDD_
 * I tried to make a commit after every single change to practice Red, Green, Refractor
 * And practiced writing detailed commits
 
-![Triangle Kata Commits Screenshot](images/triangle_kata_commits.jpg =250x)
+![Triangle Kata Commits Screenshot](images/triangle_kata_commits.jpg | width=100)
 
 ![Triangle Kata Screenshot](images/tirangle_kata.jpg)
 
