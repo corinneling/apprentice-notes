@@ -11,6 +11,7 @@ _i was able to practice TDD_
 * And practiced writing detailed commits
 
 ![Triangle Kata Commits Screenshot](images/triangle_kata_commits.jpg | width=100)
+<img src="images/triangle_kata_commits.jpg" height="204">
 
 ![Triangle Kata Screenshot](images/tirangle_kata.jpg)
 
