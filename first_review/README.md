@@ -1,10 +1,12 @@
 ### Hot Dog Stand
+_probably the most challenging because I had to learn how to learn as well as understand OOP and programing theory_
+* started by laying out the project structure and filled in some code
+* helped to pair on ways to improve the structure
 
 
 ### Wand Repair Shop
 _i wanted to see if I really understood OOP & Ruby by creating a slightly different hot dog type stand program. And I wanted to try TDD_
 * Used this opportunity to learn JSON
-*
 
 TDD
 ![Wand Test Screenshot](images/wand.jpg)
@@ -27,12 +29,12 @@ def show_values key, value_array
 end
 
 def choose_value key, value
-    if key != :spells
-      choice = show_values(key, value)[ get_user_input ]
-      puts "You chose #{choice}".colorize(:cyan)
-    end
-    ...
+  if key != :spells
+    choice = show_values(key, value)[ get_user_input ]
+    puts "You chose #{choice}".colorize(:cyan)
   end
+  ...
+end
 ```
 
 ### Katas
@@ -127,4 +129,4 @@ Create private key `openssl genrsa -out private.pem 2048`
 Create the corresponding public certificate `openssl req -new -x509 -key private.pem -out cert.pem -days 1095`
 ```
 
-![SSH Generate Screenshot](images/ssh-key-output-w-aliases.jpg)
+![SSH Generate Screenshot](images/generate.jpg)
