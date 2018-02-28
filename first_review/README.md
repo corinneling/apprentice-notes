@@ -15,7 +15,7 @@ _i was able to practice TDD_
 
 ![Triangle Kata Commits Screenshot](images/triangle-commits.png)
 
-![Triangle Kata Screenshot](images/tirangle_kata.jpg)
+![Triangle Kata Screenshot](images/triangle-sort.jpg)
 
 _test before_
 ```ruby
