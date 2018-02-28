@@ -1,20 +1,49 @@
+### Hot Dog Stand
+
+
 ### Wand Repair Shop
 _i wanted to see if I really understood OOP & Ruby by creating a slightly different hot dog type stand program. And I wanted to try TDD_
+* Used this opportunity to learn JSON
+*
 
+TDD
+![Wand Test Screenshot](images/wand.jpg)
 
+Challenge to have values show based on keys
 
-![Wand Test Screenshot](images/wand-shop-test-run.jpg)
+```ruby
+def get_questions_n_responses
+  elements.each do |keys, values|
+    show_question keys
+    choose_value keys, values
+  end
+  @choice
+end
 
+def show_values key, value_array
+  value_array.each_with_index do |a_value, index|
+     puts "#{index+1}. #{a_value}"
+  end
+end
 
+def choose_value key, value
+    if key != :spells
+      choice = show_values(key, value)[ get_user_input ]
+      puts "You chose #{choice}".colorize(:cyan)
+    end
+    ...
+  end
+```
 
 ### Katas
-#### Tirangle Kata & FizzBuzz Kata
+#### Tirangle Kata
 _i was able to practice TDD_
 * I tried to make a commit after every single change to practice Red, Green, Refractor
 * And practiced writing detailed commits
 
 ![Triangle Kata Commits Screenshot](images/triangle-commits.jpg)
 
+fix sorting on array
 ![Triangle Kata Screenshot](images/triangle-sort.jpg)
 
 _test before_
