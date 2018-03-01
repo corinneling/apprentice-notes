@@ -3,6 +3,7 @@ _probably the most challenging because I had to learn how to learn as well as un
 * started by laying out the project structure and filled in some code
 * helped to pair on ways to improve the structure
 
+First piece of code I wrote for this.
 ```ruby
 class MenuController
   def show_menu
@@ -38,18 +39,20 @@ TDD
 
 _Challenge to have values show based on keys_
 
-started off with
+started off with:
 ```ruby
   def start
-    step[1]
-    step[2]
-    step[3]
-    step[4]
-    step[5]
+    step 1
+    step 2
+    step 3
+    step 4
+    step 5
   end
 ```
 
-refractored to
+refactored to:
+instead of separating the keys and values into different variables and calling on those
+I was able to have all the data associate to one variable
 ```ruby
 def get_questions_n_responses
   elements.each do |keys, values|
