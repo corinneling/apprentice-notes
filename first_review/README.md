@@ -3,11 +3,10 @@ _probably the most challenging because I had to learn how to learn as well as un
 * started by laying out the project structure and filled in some code
 * helped to pair on ways to improve the structure
 
-First piece of code I wrote for this.
+First piece of code I wrote for the hot dog stand
 ```ruby
 class MenuController
   def show_menu
-
     puts "\nWhat are you looking for today?\n-------------------------------"
     ["1. Place an order", "2. Quit"].each do |items|
       puts items
@@ -50,9 +49,9 @@ started off with:
   end
 ```
 
-refactored to:
 instead of separating the keys and values into different variables and calling on those
 I was able to have all the data associate to one variable
+refactored to:
 ```ruby
 def get_questions_n_responses
   elements.each do |keys, values|
@@ -148,11 +147,7 @@ end
 * ECSDA Certificate
 
 ### Encryption
-* Simple 30 line program to encrypt and then decrypt a message. So far, it asks for the user create the message. I chose a AES (Advanced Encryption Standard) 256 CBC for the cipher.
-* And encrypting a password ssing PKCS5.pbkdf2_hmac_sha1.
+* Simple 30 line program to encrypt and then decrypt a message. So far, it asks for the user create the message. I chose a AES 256 CBC for the cipher.
+* And encrypting a password using PKCS5.pbkdf2_hmac_sha1.
 
-![secret message](images/tty.gif)
-
-
-
- 1. Machine Learning
+![secret message](images/secret-message.gif)
