@@ -61,20 +61,6 @@ def get_questions_n_responses
   end
   @choice
 end
-
-def show_values key, value_array
-  value_array.each_with_index do |a_value, index|
-     puts "#{index+1}. #{a_value}"
-  end
-end
-
-def choose_value key, value
-  if key != :spells
-    choice = show_values(key, value)[ get_user_input ]
-    puts "You chose #{choice}".colorize(:cyan)
-  end
-  ...
-end
 ```
 
 ### Katas
