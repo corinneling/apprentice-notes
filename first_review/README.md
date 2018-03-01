@@ -107,14 +107,15 @@ def calc_hash
   sha.hexdigest
 end
 
-def self.first(data="Genesis") # set default data to the string
-  Block.new( 0, data, "0")     # set index as zero and previous hash as zero
+def self.first(data='Genesis') # set default data to the string
+  Block.new( 0, data, '0')     # set index as zero and previous hash as zero
 end
 
-def self.next(previous, data="Transaction Data...") # set parameters and default data
+def self.next(previous, data='Transaction Data...') # set parameters and default data
   Block.new(previous.index+1, data, previous.hash)  # sets index to previous block + 1, hash to previous hash
 end
 ```
+
 
 
 ### SSH Keys
@@ -123,10 +124,19 @@ _what is SSH & how to create one_
  * secure  way of working with remote environments
  * interested in: security and encryption
 
- ```
+
 Create private key `openssl genrsa -out private.pem 2048`
 
 Create the corresponding public certificate `openssl req -new -x509 -key private.pem -out cert.pem -days 1095`
-```
 
-![SSH Generate Screenshot](images/generate.jpg)
+
+### Encryption
+![secret message](images/tty.gif)
+
+
+### Interests
+ 1. How to set up an Apache Server
+ 1. Set up server automation tools
+ 1. Learn more about blockchain and encryption
+ 1. Look into data visualization
+ 1. Machine Learning
