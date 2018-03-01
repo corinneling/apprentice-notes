@@ -68,8 +68,6 @@ _i was able to practice TDD_
 * I tried to make a commit after every single change to practice Red, Green, Refractor
 * And practiced writing detailed commits
 
-![Triangle Kata Commits Screenshot](images/triangle-commits.jpg)
-
 fix sorting on array
 ![Triangle Kata Screenshot](images/triangle-sort.jpg)
 
