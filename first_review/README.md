@@ -3,16 +3,53 @@ _probably the most challenging because I had to learn how to learn as well as un
 * started by laying out the project structure and filled in some code
 * helped to pair on ways to improve the structure
 
+```ruby
+class MenuController
+  def show_menu
 
+    puts "\nWhat are you looking for today?\n-------------------------------"
+    ["1. Place an order", "2. Quit"].each do |items|
+      puts items
+    end
+    print "-->"
+    user_input = $stdin.gets.chomp.to_i
+    case user_input
+    when 1
+      order.place_order
+    when 2
+      puts "Goodbye, hope to see you again!"
+      exit(0)
+    else
+      while user_input > 2
+        puts "\nWe don't offer that here. \nPlease enter a valid option.\n----------------------------\n"
+        print "-->"
+        user_input = gets.chomp.to_i
+      end
+    end
+  end
+  show_menu
+```
 ### Wand Repair Shop
 _i wanted to see if I really understood OOP & Ruby by creating a slightly different hot dog type stand program. And I wanted to try TDD_
-* Used this opportunity to learn JSON
+* Used this opportunity to learn JSON, set up test coverage, and focus on different ways to solve the same problem
 
 TDD
 ![Wand Repair](images/wand-shop.gif)
 
-Challenge to have values show based on keys
+_Challenge to have values show based on keys_
 
+started off with
+```ruby
+  def start
+    step[1]
+    step[2]
+    step[3]
+    step[4]
+    step[5]
+  end
+```
+
+refractored to
 ```ruby
 def get_questions_n_responses
   elements.each do |keys, values|
@@ -98,7 +135,6 @@ end
 ### Blockchain
 
 _found blockchain-lite gem which led me to wonder how that would work_
-  * interested in: blockchain in general
 
 ```ruby
 def calc_hash
@@ -117,26 +153,17 @@ end
 ```
 
 
+### Generating Keys
 
-### SSH Keys
-
-_what is SSH & how to create one_
- * secure  way of working with remote environments
- * interested in: security and encryption
-
-
-Create private key `openssl genrsa -out private.pem 2048`
-
-Create the corresponding public certificate `openssl req -new -x509 -key private.pem -out cert.pem -days 1095`
-
+* SSH Keys
+* ECSDA Certificate
 
 ### Encryption
+* Simple 30 line program to encrypt and then decrypt a message. So far, it asks for the user create the message. I chose a AES (Advanced Encryption Standard) 256 CBC for the cipher.
+* And encrypting a password ssing PKCS5.pbkdf2_hmac_sha1.
+
 ![secret message](images/tty.gif)
 
 
-### Interests
- 1. How to set up an Apache Server
- 1. Set up server automation tools
- 1. Learn more about blockchain and encryption
- 1. Look into data visualization
+
  1. Machine Learning
