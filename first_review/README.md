@@ -150,4 +150,4 @@ end
 * Simple 30 line program to encrypt and then decrypt a message. So far, it asks for the user create the message. I chose a AES 256 CBC for the cipher.
 * And encrypting a password using PKCS5.pbkdf2_hmac_sha1.
 
-![secret message](images/secret-message.gif)
+![secret message](images/tty.gif)
