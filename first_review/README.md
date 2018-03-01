@@ -104,8 +104,7 @@ h2 = doc.css("h2").first                          # assigns h2 to the first h2 o
 h2 = doc.xpath("//h2").first                      # another way to get the h2
 h2['class'] = 'jedi-scum'                         # adds class to h2
 ```
-![General Kenobi](images/hellothere.jpg)
-
+<img src="images/hellothere.jpg" width="200">
  _used this opportunity to learn a bit about YAML_
 
 ```ruby
