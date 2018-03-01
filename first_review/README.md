@@ -29,11 +29,27 @@ class MenuController
   end
   show_menu
 ```
+similar functionality in the same program turned into
+```ruby
+module Menu
+
+  # tells the user what ingredient they are selecting
+  def display_prompt
+    puts "Please choose #{@ingredient}"
+  end
+
+  # iterates through whatever parameter it is given
+  def display_options
+    @show.each_with_index do |option, index|
+      puts "#{index+1}. #{option}"
+    end
+  end
+end
+```
 ### Wand Repair Shop
 _i wanted to see if I really understood OOP & Ruby by creating a slightly different hot dog type stand program. And I wanted to try TDD_
 * Used this opportunity to learn JSON, set up test coverage, and focus on different ways to solve the same problem
 
-TDD
 ![Wand Repair](images/wand-shop.gif)
 
 _Challenge to have values show based on keys_
@@ -88,7 +104,7 @@ end
 ```
 
 ### Web Scrapping
-_i was thinking about goals and my interest in data which led my to think about how I could get data and then tell a story though it. That led me to web scrapping_
+_i was thinking about goals and my interest in data which led my to think about storytelling through data visualization. That led me to web scrapping_
    * used nokogiri to scrape
    * used yaml to store
    * scrapped seesparkbox.com to see what I could do
