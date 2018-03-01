@@ -9,7 +9,7 @@ _i wanted to see if I really understood OOP & Ruby by creating a slightly differ
 * Used this opportunity to learn JSON
 
 TDD
-![Wand Test Screenshot](images/wand.jpg)
+![Wand Repair](images/wand-shop.gif)
 
 Challenge to have values show based on keys
 
