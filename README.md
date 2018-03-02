@@ -1,7 +1,8 @@
 # Apprentice Notes
 ### Exercise Files with My Notes as Comments
 
-####[JavaScript Koans](https://github.com/mrdavidlaing/javascript-koans)
+#### [JavaScript Koans](https://github.com/mrdavidlaing/javascript-koans)
+
 Similar to the ruby koans. This was a good intro to testing with JS, since I wasn't sure when testing framework to use, since there are so many out there. It's shorter than the ruby koans, but I'd say still as valuable.
 
 #### [Blockchain](https://github.com/openblockchains/awesome-blockchains/tree/master/blockchain.rb)
