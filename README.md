@@ -1,11 +1,14 @@
 # Apprentice Notes
 ### Exercise Files with My Notes as Comments
 
+####[JavaScript Koans](https://github.com/mrdavidlaing/javascript-koans)
+Similar to the ruby koans. This was a good intro to testing with JS, since I wasn't sure when testing framework to use, since there are so many out there. It's shorter than the ruby koans, but I'd say still as valuable.
+
 #### [Blockchain](https://github.com/openblockchains/awesome-blockchains/tree/master/blockchain.rb)
 I discovered the gem blockchain-lite for ruby, and after playing around with it I was curious about how creating a blockchain without the gem would work. This was a very simple example that was a good introduction to the subject.
 
 #### [SSH Keys](https://github.com/corinneling/apprentice-notes/blob/master/how-to-generate-ssh-key.md)
-I've used SSH keys only once before, but I was still interested in what they were and how they would be generated. For simple instructions and the resources I used see [my markdown file](https://github.com/corinneling/apprentice-notes/blob/master/how-to-generate-ssh-key.md) on SSH keys 
+I've used SSH keys only once before, but I was still interested in what they were and how they would be generated. For simple instructions and the resources I used see [my markdown file](https://github.com/corinneling/apprentice-notes/blob/master/how-to-generate-ssh-key.md) on SSH keys
 
 #### [Learn Ruby The Hard Way](https://learnrubythehardway.org/book/)
 This book is free to read online. It's straight forward, and gives you code to put in your own files and mess around with. That gave me a chance to really understand what was going on with certain ruby elements. Also, ex41 - 43  _helped me understand OOP_ so much better than I had ever before (I hadn't really understood it before). I would highly recommend that section.
@@ -23,7 +26,7 @@ This exercise was a _great introduction into MiniTest_, and TDD as a while. It g
 
 From the same website as the MiniTest exercise, and with the same style. It includes step by step instructions on how to set up RSpec and your first test. It was a good introduction to BDD, behavior-driven development.
 
-#### [Mega Project List](https://github.com/karan/Projects)
+#### [Project List](https://github.com/karan/Projects)
 
 This is a great list to challenge yourself with, it has the simplest of prompts such as, find e to the nth digit or make a calculator, all the way up to database projects. You can use any language to solve them, and I am planning on revisiting it after working on ruby some more
 
