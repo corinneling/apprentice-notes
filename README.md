@@ -11,7 +11,6 @@ This is a good introduction to prototypes and constructors with a few simple cod
 #### [Express, Node, & Exports](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs/Introduction)
 This tutorial on express from MDN goes into detail explanation of a simple express app, what all of the parts mean and how it runs. Also, at the very end are the most helpful examples for exporting functions in your own programs.
 
-
 #### [Blockchain](https://github.com/openblockchains/awesome-blockchains/tree/master/blockchain.rb)
 I discovered the gem blockchain-lite for ruby, and after playing around with it I was curious about how creating a blockchain without the gem would work. This was a very simple example that was a good introduction to the subject.
 
