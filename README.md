@@ -5,6 +5,9 @@
 
 Similar to the ruby koans. This was a good intro to testing with JS, since I wasn't sure when testing framework to use, since there are so many out there. It's shorter than the ruby koans, but I'd say still as valuable.
 
+#### [Prototypical Inheritance](https://medium.com/front-end-hacking/wth-is-prototypal-inheritance-b0c7f4f3211e)
+This is a good introduction to prototypes and constructors with a few simple code examples and concise explanations. There a couple of examples and an explanation of why prototypical inheritance is useful.
+
 #### [Blockchain](https://github.com/openblockchains/awesome-blockchains/tree/master/blockchain.rb)
 I discovered the gem blockchain-lite for ruby, and after playing around with it I was curious about how creating a blockchain without the gem would work. This was a very simple example that was a good introduction to the subject.
 
