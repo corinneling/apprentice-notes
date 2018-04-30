@@ -12,6 +12,9 @@
 **[Custom Properties](https://www.smashingmagazine.com/2017/04/start-using-css-custom-properties/)**: I liked this article a lot because it goes into detail on how custom properties are different from preprocessors like sass. It also gives examples on different ways you can use custom properties, such as with font-size, padding, color etc. And it went into the correct syntax when using calc and custom properties. 
 
 ### Javascript
+
+**[Eloquent Javascript](http://eloquentjavascript.net/)**: This is a great book to read at any point on your journey of learning javascript. I preferred reading it after I had already worked with js. It's free to read online, and there is a [sandbox for the exercises](http://eloquentjavascript.net/code/) at the end of each chapter.
+
 **[JavaScript Koans](https://github.com/mrdavidlaing/javascript-koans)**: Similar to the ruby koans. This was a good intro to testing with JS, since I wasn't sure when testing framework to use, since there are so many out there. It's shorter than the ruby koans, but I'd say still as valuable.
 
 **[Prototypical Inheritance](https://medium.com/front-end-hacking/wth-is-prototypal-inheritance-b0c7f4f3211e)**: This is a good introduction to prototypes and constructors with a few simple code examples and concise explanations. There a couple of examples and an explanation of why prototypical inheritance is useful.
