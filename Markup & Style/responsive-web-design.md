@@ -61,3 +61,16 @@ so that is constant and the dimensions change
         }
     }
  ```
+
+ can use and to link device features
+
+ ```
+ @media screen and (min-device-width: 480px) and
+(orientation: landscape) { … }
+```
+
+Meta viewport
+
+` <meta name="viewport" content="initial-scale=1.0, width=device-width" /> `
+
+initial scale sets the zoom level of the page to 100%
