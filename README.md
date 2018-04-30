@@ -3,7 +3,7 @@
 
 ### Markup & CSS
 
-**[Progressive Enhancement](https://www.smashingmagazine.com/2009/04/progressive-enhancement-what-it-is-and-how-to-use-it/)**: Progressive Enhancement is key when developing anything for the web, and this article breaks it down perfectly. It starts out explaining exactly what Progressive Enhancement is, the 3 layers of it, and then gives a practical example.
+**[Progressive Enhancement](https://www.smashingmagazine.com/2009/04/progressive-enhancement-what-it-is-and-how-to-use-it/)**: Progressive Enhancement, or PE, is key when developing anything for the web, and this article breaks it down perfectly. It starts out explaining exactly what PE is, the 3 layers of it, and then gives a practical example. Great article series: [Understanding PE](http://alistapart.com/article/understandingprogressiveenhancement), [PE with CSS](http://alistapart.com/article/progressiveenhancementwithcss), [PE with JavaScript](http://alistapart.com/article/progressiveenhancementwithjavascript)
 
 **[Grid to Flexbox](http://www.gridtoflex.com/)**: This was a great resource to illustrate how to develop css layouts for IE and edge by creating the flexbox foundation for a page and then using grid only when it is supported. This sites offers visuals and sample code, and it lets you toggle between grid and flexbox.
 
