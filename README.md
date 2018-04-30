@@ -7,6 +7,10 @@
 
 **[Complete Grid Guide](https://css-tricks.com/snippets/css/complete-guide-grid/)** and **[Complete Flexbox Guide](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)**: Both of these CSS Tricks are articles were my main resources for learning grid and flexbox. I'm grouping these two resources together because they have the same layout. There are two columns, one goes into detail on properties for the parent, and the other explains the properties for the child. There are brief explanations, code examples, and illustrations on what outputs would look like. 
 
+**[CSS Animations Tutorials](http://valhead.com/2016/12/16/web-animation-tutorials-roundup/)**: Val Head put together a post on various css animation tutorials. She describes what each tutorial focuses on from css animations for beginners to svg animations and three.js tutorials. I really enjoyed a lot of the tutorials and I think its a great place to start if you are interested in css animations.
+
+**[Custom Properties](https://www.smashingmagazine.com/2017/04/start-using-css-custom-properties/)**: I liked this article a lot because it goes into detail on how custom properties are different from preprocessors like sass. It also gives examples on different ways you can use custom properties, such as with font-size, padding, color etc. And it went into the correct syntax when using calc and custom properties. 
+
 ### Javascript
 **[JavaScript Koans](https://github.com/mrdavidlaing/javascript-koans)**: Similar to the ruby koans. This was a good intro to testing with JS, since I wasn't sure when testing framework to use, since there are so many out there. It's shorter than the ruby koans, but I'd say still as valuable.
 
