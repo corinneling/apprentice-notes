@@ -1,15 +1,21 @@
 # Apprentice Notes
 ### Exercise Files with My Notes as Comments
 
-#### [JavaScript Koans](https://github.com/mrdavidlaing/javascript-koans)
+### Markup & CSS
+
+
+### Javascript
+**[JavaScript Koans](https://github.com/mrdavidlaing/javascript-koans)**
 
 Similar to the ruby koans. This was a good intro to testing with JS, since I wasn't sure when testing framework to use, since there are so many out there. It's shorter than the ruby koans, but I'd say still as valuable.
 
-#### [Prototypical Inheritance](https://medium.com/front-end-hacking/wth-is-prototypal-inheritance-b0c7f4f3211e)
+**[Prototypical Inheritance](https://medium.com/front-end-hacking/wth-is-prototypal-inheritance-b0c7f4f3211e)**
 This is a good introduction to prototypes and constructors with a few simple code examples and concise explanations. There a couple of examples and an explanation of why prototypical inheritance is useful.
 
-#### [Express, Node, & Exports](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs/Introduction)
+**[Express, Node, & Exports]**(https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs/Introduction)
 This tutorial on express from MDN goes into detail explanation of a simple express app, what all of the parts mean and how it runs. Also, at the very end are the most helpful examples for exporting functions in your own programs.
+
+### Ruby
 
 #### [Blockchain](https://github.com/openblockchains/awesome-blockchains/tree/master/blockchain.rb)
 I discovered the gem blockchain-lite for ruby, and after playing around with it I was curious about how creating a blockchain without the gem would work. This was a very simple example that was a good introduction to the subject.
