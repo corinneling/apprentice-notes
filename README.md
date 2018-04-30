@@ -3,6 +3,8 @@
 
 ### Markup & CSS
 
+**[Progressive Enhancement](https://www.smashingmagazine.com/2009/04/progressive-enhancement-what-it-is-and-how-to-use-it/)**: Progressive Enhancement is key when developing anything for the web, and this article breaks it down perfectly. It starts out explaining exactly what Progressive Enhancement is, the 3 layers of it, and then gives a practical example.
+
 **[Grid to Flexbox](http://www.gridtoflex.com/)**: This was a great resource to illustrate how to develop css layouts for IE and edge by creating the flexbox foundation for a page and then using grid only when it is supported. This sites offers visuals and sample code, and it lets you toggle between grid and flexbox.
 
 **[Complete Grid Guide](https://css-tricks.com/snippets/css/complete-guide-grid/)** and **[Complete Flexbox Guide](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)**: Both of these CSS Tricks are articles were my main resources for learning grid and flexbox. I'm grouping these two resources together because they have the same layout. There are two columns, one goes into detail on properties for the parent, and the other explains the properties for the child. There are brief explanations, code examples, and illustrations on what outputs would look like. 
@@ -41,7 +43,12 @@
 
 **[Ruby Exceptions](http://rubylearning.com/satishtalim/ruby_exceptions.html)**: This is a very detailed post on what the Exception class is ruby is, how to work with exceptions by using exception handlers. The post gives examples and explanations on how to raise exceptions, as well as use begin..end blocks with rescue clauses
 
+#### Resources
+
+**[Quick JS Switcher](https://chrome.google.com/webstore/detail/quick-javascript-switcher/geddoclleiomckbhadiaipdggiiccfje)**: Chrome Extension that toggles js on and off
+
 #### Other
 
 **[Project List](https://github.com/karan/Projects)**: This is a great list to challenge yourself with, it has the simplest of prompts such as, find e to the nth digit or make a calculator, all the way up to database projects. You can use any language to solve them, and I am planning on revisiting it after working on ruby some more
+
 
